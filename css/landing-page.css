@@ -17,12 +17,8 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-}
-
-.topnav {
-    font-size: 14px; 
 }
 
 .lead {
@@ -35,7 +31,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/IMG_0788.JPG) no-repeat center center;
+    background: url(../img/Olympicpark_08_2016.JPG) no-repeat center center;
     background-size: cover;
 }
 
@@ -46,7 +42,7 @@ h6 {
 }
 
 .intro-message > h1 {
-    margin: 300px 0px 0px 0px;
+    margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 5em;
 }
@@ -168,3 +164,14 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.en:lang(en), .de:lang(de), .vi:lang(vi){
+    color: black;
+}
+
+// overriding carousel to fit our videos
+.carousel {
+    max-width: 560px;
+}
+
+

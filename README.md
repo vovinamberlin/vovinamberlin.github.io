@@ -1,64 +1,86 @@
-## TODO
+# USAGE
 
-ke hoach ngan han truoc mat cua em la nhu the nay: 
-- them cac videos trong chuyen di thi dau vovinam eu championship vao trong account cua cau lac bo.
-- bo sung them phan Tin Tuc de trao doi voi ban doc ve ngay gio dong cua phong tap , hay nhung gi can thiet.
-- cung cap thong tin ve nghi he trong phan tin tuc  
-- them phan su kien, de cap nhat cac su kien cua cau lac bo, hoac su kien vovinam o Duc. 
-- nho ai do dich sang tieng Duc. (JP Busche)
+## Writing post
 
-- google analytics and google ads 
-- quang cao tren facebook den ban be va cac nhom dang sinh hoat tai berlin. 
+A post use `post` layout, post can contain any further images in the post. The post layout should be made `center` aligned, and its content follows.
 
-- bo sung them 1 muc gallery photos de dang len cac sinh hoat cua cau lac bo.
- 
-- them 1 muc kien thuc vo thuat, nham cung cap cho ban doc 1 so kien thuc huu ich ve vo thuat, cac kien thuc tieng Viet dung trong mon vo. 
+A post can contain:
+- an `img` value, which will show only an image
+- a link to `youtube` (embed value) will show only a youtube embeded
+- a `imgs` value, will show a carousel of images
+- a `youtubes` value will show a carousel of youtubes
 
-NGHỈ 
-NGHIÊM 
-NGHIÊM LỄ
-LỄ
+`youtubes`:
+  - `url`: the embed url of Youtube
+    `title`: the title in the caption
 
-ĐẾM SỐ:
-Làm 1 video về đếm số cho học viên môn võ biết 
-1 - MỘT - EINS - ONE
-2 - HAI - ZWEI - TWO
-3 - BA - DREI  - THREE
-4 - BỐN - VIER - FOUR
-5 - NĂM - FÜNF - FIVE 
-6 - SÁU - SECHS - SIX
-8 - BẢY - ZIEBEN - SEVEN
-8 - TÁM - ACHT - EIGHT 
-9 - CHÍN - NEUN - NINE
-10 - MƯỜI - ZEHN - TEN
+category:
+- `home`: post will appear only on homepage
+- `blog`: post will appear only in the blog page
+- `event`: post will appear only in the event page
 
+use excerpt_separator to extract the excerpt to show in listings page:
+- <!--more-->
 
+lang:
+- `de`: post will appear only in German page
+- `en`: post will appear only in English page
+- `vi`: post will appear only in Vietnamese page
 
+ref:
+- `value`: a ref should be the same in different languages, so that we have a way to let Search Engine or Translation Service to know which page / post has a translation
+
+permalink:
+- use its value to uniquely identify a post, it should be different in different languages
 
 
-# [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
+# TODO
 
-[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+- Update post for Vovinam Berlin club (done, missing German translation)
 
-## Getting Started
+- Work with ref for Google Translation service to know the translation of the article.
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+- Create a new /events page
 
-## Bugs and Issues
+- Write posts for Ronneburg event
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-landing-page/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/).
+- Write blogs at /blog
 
-## Creator
+- Have new /theories and /techniques page (define new structure to store data)
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+# Landing Page Jekyll theme
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
-## Copyright and License
+## How to use
+ - Place a image in `/img/services/`
+ - Create posts to display your services. Use the follow as an example:
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
+```txt
+---
+layout: default
+img: ipad.png
+category: Services
+title: The service title
+---
+The description of this service
+```
+
+## Demo
+View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
+
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+
+===
+
+For more Jekyll details, read [documentation](http://jekyllrb.com/).
+This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
+
+## License
+The contents of this repository are licensed under the [Apache
+2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+
+## Version
+1.0.1

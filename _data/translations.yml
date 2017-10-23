@@ -1,0 +1,90 @@
+lang:
+  de:
+    name: "Deutsche"
+    url: "/"
+  en:
+    name: "English"
+    url: "/en"
+  vi:
+    name: "Tiếng Việt"
+    url: "/vi"
+
+training:
+  de:
+    title: Trainingsort und Trainingszeiten
+    monday: "Montag, 20h - 22h, Grundschule auf dem Lichtenberg. Adresse: Atzpodienstr. 19, Berlin. (Erwachsene)"
+    trial: Das Training ist für jedes Alter und Geschlecht möglich. Gerne kannst du kostenlos an unserem Probetraining teilnehmen.
+    saturday: "Samstag, 12h - 15h, Grundschule im Gutspark. Adresse: Josef - Orlopp - Straße 20, 10367, Berlin (Kinder / Jugendliche / Erwachsene)"
+    sunday: "Sonntag, 13h30 - 16h30, Grundschule im Gutspark. Adresse: Josef - Orlopp - Straße 20, 10367, Berlin (Kinder / Jugendliche)"
+  en:
+    title: Timetables and training halls
+    monday: "Monday, 20 - 22, Grundschule auf dem Lichtenberg. Address: Atzpodienstr. 19, Berlin. (Adults class)"
+    trial: The martial art is for everyone, you're encouraged to attend two initial free trial trainings.
+    saturday: "Saturday, 12 - 15, Grundschule im Gutspark. Address: Josef - Orlopp - Straße 20, 10367, Berlin (Adults and Children class)"
+    sunday: "Sunday, 13:30 - 16:30, Grundschule im Gutspark. Address: Josef - Orlopp - Straße 20, 10367, Berlin (Adults and Children class)"
+  vi:
+    title: Thời gian biểu & Địa điểm tập luyện
+    monday: "Thứ hai, 20h - 22h, Grundschule auf dem Lichtenberg. Địa chỉ: Atzpodienstr. 19, Berlin. (Lớp người lớn)"
+    trial: Môn võ dành cho tất cả mọi người và lứa tuổi từ 7 trở lên, quý vị rất được hoan nghênh đến tập luyện thử hai buổi đầu miễn phí.
+    saturday: "Thứ bảy, 12h - 15h, Grundschule im Gutspark. Địa chỉ: Josef - Orlopp - Straße 20, 10367, Berlin (Lớp trẻ em và người lớn)"
+    sunday: "Chủ nhật, 13h30 - 16h30, Grundschule im Gutspark. Địa chỉ: Josef - Orlopp - Straße 20, 10367, Berlin (Lớp trẻ em và người lớn)"
+
+contact:
+  de:
+    title: Kontakt
+  en:
+    title: Contact
+  vi:
+    title: Liên lạc
+
+various:
+  de:
+    more: Mehr ...
+  en:
+    more: Read more ...
+  vi:
+    more: Đọc thêm ...
+
+upcoming:
+  de:
+    title: "Hier die nächsten Termine, die auf uns zu kommen"
+    content: "
+      * 18.-19.11.2017 Freikampf Event in München
+
+      * 16.-18.02.2018 Trainerlehrgang in Viernheim
+
+      * März/April Deutsche Meisterschaft in Langenhagen, Termin noch nicht fest
+
+      * 04.-06. Mai 2018 Gio to Wochenende in Ronneburg (mit Gelbgurtprüfung)
+
+      * 18.-20. Mai 2018 EVVF Seminar in Paris
+
+      * 07.-08. Juli 2018 EVVF Europameisterschaft in Bergamo Italien"
+  en:
+    title: "Upcoming events organized by DVVF and EVVF in Europe"
+    content: "
+      * 18.-19.11.2017 Fighting event in München
+
+      * 16.-18.02.2018 Seminar for trainers in Viernheim
+
+      * March/April 2018 DVVF Championship in Langenhagen, not yet fixed dates
+
+      * 04.-06. May 2018 Gio To Seminar in Ronneburg (with Yellow Belt Examinations)
+
+      * 18.-20. May 2018 EVVF Seminar in Paris
+
+      * 07.-08. July 2018 EVVF Championship in Bergamo Italy"
+  vi:
+    title: "Sự kiện sắp tới do Liên Đoàn Vovinam Đức và Châu Âu tổ chức"
+    content: "
+      * 18.-19.11.2017 Tập huấn đối kháng tại München
+
+      * 16.-18.02.2018 Tập huấn chuyên môn cho Huấn Luyện Viên tại Viernheim
+
+      * Tháng 3/4 - 2018 Giải vô địch quốc gia Vovinam tại Langenhagen, chưa thống nhất ngày
+
+      * 04.-06. tháng 5 2018 Tập huấn chuyên môn kết hợp Tưởng niệm Giỗ Tổ tại Ronneburg, và thi cho cấp Hoàng Đai
+
+      * 18.-20. tháng 5 2018 Tập huấn chuyên môn của liên đoàn Châu Âu EVVF tại Paris
+
+      * 07.-08. tháng 7 2018 Giải vô địch Vovinam Châu Âu tổ chức tại Bergamo, Italy"

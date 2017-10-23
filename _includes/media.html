@@ -1,0 +1,9 @@
+{% assign post = include.post %}
+
+{% if post.img %}
+    <img class="img-responsive" src="/img/services/{{ post.img }}" alt="">
+{% elsif post.youtube %}
+    <iframe class="embed-responsive-item"  width="560" height="315" src="{{ post.youtube }}" frameborder="0" rel="0" allowfullscreen></iframe>
+{% elsif post.youtubes %}
+    {% include carousel.html post=post %}
+{% endif %}

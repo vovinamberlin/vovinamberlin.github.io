@@ -1,0 +1,13 @@
+<!-- About Section -->
+{% assign upcoming = site.data.translations.upcoming[page.lang] %}
+
+<section id="about" class="container content-section text-center">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+            <br/><br/>
+            <h2>{{ upcoming.title }}</h2>
+            <br/>
+            {{ upcoming.content || markdownify }}
+        </div>
+    </div>
+</section>

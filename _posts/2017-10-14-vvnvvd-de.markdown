@@ -1,0 +1,47 @@
+---
+layout: post
+excerpt_separator: <!--more-->
+youtubes:
+  - url: https://www.youtube.com/embed/bY8jrB8uPdQ
+    title: Vovinam Viet Vo Dao Demo at Berlinfamiliensportfest 2017, Olympicpark Berlin.
+  - url: https://www.youtube.com/embed/JaAr5QgLsAw
+    title: Vovinam Frankfurt am Main Demo at Old People's House in Westend - September 2016
+
+category: home
+title: Vovinam Việt Võ Đạo ist eine Kampfkunst aus Vietnam
+lang: de
+ref: vvnvvd
+permalink: vovinam-viet-vo-dao-deutsche
+menu: Vovinam
+description: |
+---
+
+Vovinam ist eine Kampfkunst und Kampfsportart aus Vietnam und leider noch relativ unbekannt in Deutschland. Der noch junge und in Berlin ansässige Verein möchte dies in Zusammenarbeit mit der Gruppe aus Frankfurt/Main ändern und den Zuschauern diese interessante Sportart näher bringen!
+
+Im Blaugurt-, also Schülerbereich, erlernen Interessenten klassischerweise Selbstverteidigungstechniken, Fallschule und sowie Grundlagen in Faust- und Fußtritten. In der höhergraduierten Trainerstufe, dem Gelbgurtbereich, kommen dann u.a. viele traditionelle asiatische Waffen dazu, wie Kurz- und  Langstock, Messer, Schwert, Hellebarde, etc. Eine Besonderheit des Vovinams sind neben den Waffen aber auch die sogenannten Beinscheren, bei denen man mit den Füßen voran an den Körper oder Hals des Gegners springt.
+
+<!--more-->
+
+<iframe class="embed-responsive-item"  width="560" height="315" src="https://www.youtube.com/embed/bY8jrB8uPdQ" frameborder="0" allowfullscreen></iframe>
+
+Wie in anderen Kampfkünsten auch, werden bei dieser Kampfkunst einstudierte Bewegungsabläufe gezeigt - entweder im Einzel oder als Partner oder Team. Die genannten Elemente werden beim diesjährigen Familienfest vom Großteil der Deutschen Nationalmannschaft vorgeführt, die sich in den verschiedenen Disziplinen auch als aktuelle Europäische und/oder Deutsche Meister bezeichnen dürfen. Die Athleten üben teilweise seit mehr als 10 Jahren diesen Sport aktiv aus und unterrichten diesen zum Teil auch schon in verschiedenen Vereinen. Regelmäßige Teilnahmen an den inter-/nationalen Meisterschaften sowie zahlreichen Lehrgängen führen zu einer stetigen Weiterentwicklung des Athleten und ihrer Mittrainierenden.
+
+<iframe class="embed-responsive-item"  width="560" height="315" src="https://www.youtube.com/embed/JaAr5QgLsAw" frameborder="0" allowfullscreen></iframe>
+
+Dabei ist der Sport für jedermann und jederfrau gedacht, unabhängig von der Altersstufe! Ein Anfänger (bei uns Môn-Sinh genannt) lernt im individuellen Tempo den Sport für sich, aber vor allem im Miteinander kennen.
+
+Schauen Sie doch vorbei und machen sich selbst ein Bild. Gezeigt wird zwar eine große Palette des Sports - alles lernt man jedoch nur durch aktives Training kennen!
+
+![Vovinam Leg Attack](/img/vvnvvd/leg_attack_01_resized.jpg)
+
+![Vovinam Leg Attack](/img/vvnvvd/leg_attack_02_resized.jpg)
+
+![Vovinam Leg Attack](/img/vvnvvd/leg_attack_04_resized.jpg)
+
+![Vovinam Leg Attack](/img/vvnvvd/leg_attack_05_resized.jpg)
+
+![Vovinam Leg Attack](/img/vvnvvd/leg_attack_06_resized.jpg)
+
+![Vovinam Leg Attack](/img/vvnvvd/leg_attack_07_resized.jpg)
+
+![Vovinam Leg Attack](/img/vvnvvd/leg_attack_03_resized.jpg)

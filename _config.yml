@@ -1,0 +1,43 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://vovinamberlin.eu/
+title: Vovinam Berlin
+email: vovinamvvdberlin@gmail.com
+author: HOANG PHAM
+description: >
+  The Vovinam Berlin SV-Tora is a club inside the German Vovinam Federation - DVVF.
+  Der Vovinam Verein Berlin gehört zum DVVF, dem deutschen Vovinam Fachverband
+  Dank der Hilfe von Meister Trần Đại Chiêu (6. Dang) und Vizepräsident des DVVF, sowie der Fahrschule Hoan Kiem und Hr. Hoang Vinh wurde die Trainingsgruppe Berlin-Lichtenberg wieder ins Leben gerufen.
+copyright: 'Copyright &copy; 2017 VOVINAM BERLIN. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+collections:
+  events:
+    output: true
+
+default:
+  scope:
+    path: ""
+    type: events
+  values:
+    layout: page
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: youtube
+    url: https://www.youtube.com/channel/UCKdSwa0GupVs0EzVk5MqB0w
+  - title: facebook
+    url: https://www.facebook.com/vovinamberlin/

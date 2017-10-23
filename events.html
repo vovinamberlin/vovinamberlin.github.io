@@ -1,0 +1,28 @@
+---
+subTitle: A Template by Start Bootstrap
+category: Services
+lang: en
+ref: events
+---
+
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+
+	<body>
+            {% for album in site.events %}
+            <h2>{{ album.title }}</h2>
+            <p>Performed by {{ album.artist }}{% if album.director %}, directed by {{ album.director }}{% endif %}</p>
+            {% for work in album.works %}
+              <h3>{{ work.title }}</h3>
+              <p>Composed by {{ work.composer }}</p>
+              <ul>
+              {% for track in work.tracks %}
+                <li>{{ track.title }} ({{ track.duration }})</li>
+              {% endfor %}
+              </ul>
+            {% endfor %}
+          {% endfor %}
+
+    </body>
+</html>
