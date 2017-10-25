@@ -30,7 +30,7 @@ default:
     path: ""
     type: events
   values:
-    layout: page
+    layout: home
 
 # ----------------------- #
 #   3rd Party Settings    #

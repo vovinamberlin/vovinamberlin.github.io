@@ -1,14 +1,11 @@
-<!DOCTYPE html>
-<html lang="{{page.lang}}">
-	{% include head.html %}
+---
+layout: default
 
-	<body>
-		{% include fb_js.html %}
-		{% include nav.html %}
-		{% include post.html %}
-		{% include timetables.html %}
-		{% include contact.html %}
-		{% include footer.html %}
-		{% include js.html %}
-	</body>
-</html>
+---
+
+
+{% include post.html %}
+
+{% if page.comments %}
+{% include disqus_comments.html %}
+{% endif %}

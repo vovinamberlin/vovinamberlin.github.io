@@ -8,6 +8,7 @@ lang: en
 ref: club
 permalink: club-vovinam-berlin
 menu: Club
+comments: true
 description: |
 ---
 After the initial period training in the Hoan Kiem driving school, and many times in the park. The Vovinam Berlin is now a department inside [SV-Tora Berlin](http://www.sv-tora.de/trainingszeiten.php) club.

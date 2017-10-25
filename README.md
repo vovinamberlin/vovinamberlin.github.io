@@ -48,6 +48,14 @@ permalink:
 
 - Have new /theories and /techniques page (define new structure to store data)
 
+- Add button to share post to social networks
+
+- Add social commenting system
+
+- RSS ?
+
+-
+
 
 # Landing Page Jekyll theme
 
@@ -59,7 +67,7 @@ Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/
 
 ```txt
 ---
-layout: default
+layout: home
 img: ipad.png
 category: Services
 title: The service title

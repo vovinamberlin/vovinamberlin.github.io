@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 img: ipad.png
 category: blog
 title: Draft post

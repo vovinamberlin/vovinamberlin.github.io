@@ -8,6 +8,7 @@ lang: vi
 ref: club
 permalink: cau-lac-bo-vovinam-berlin
 menu: Về câu lạc bộ
+comments: true
 description: |
 ---
 
