@@ -40,10 +40,16 @@ contact:
 various:
   de:
     more: Mehr ...
+    latest_event: Die neueste Veranstaltungen
+    image: Bilde
   en:
     more: Read more ...
+    latest_event: Latest events
+    image: Images
   vi:
     more: Đọc thêm ...
+    latest_event: Sự kiện mới nhất
+    image: Hình
 
 upcoming:
   de:

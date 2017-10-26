@@ -31,7 +31,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/Olympicpark_08_2016.JPG) no-repeat center center;
+    background: url(../img/Olympicpark_08_2016.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -174,4 +174,18 @@ p.copyright {
     max-width: 560px;
 }
 
+#event {
+    margin-bottom: 80px;
+    padding-top: 80px;
+}
 
+.event-image {
+    margin: 10px;
+    width: 100%;
+}
+
+.event-spacer {
+    width: 50%;
+    border-top: 2px solid #e7e7e7;
+    margin: 40px auto;
+}

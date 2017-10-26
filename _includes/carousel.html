@@ -1,12 +1,21 @@
-{% assign carousel_id = include.post.ref | slugify %}
-{% assign youtubes = include.post.youtubes %}
-{% assign num = youtubes | size | minus: 1 %}
+{% assign post = include.post %}
+{% assign carousel_id = post.ref | slugify | prepend: "carousel-" %}
+{% if post.category == "event" %}
+    {% assign start = 1 %}
+    {% assign active = include.active %}
+    {% assign num = post.image_count %}
+{% else %}
+    {% assign youtubes = post.youtubes %}
+    {% assign start = 0 %}
+    {% assign active = 0 %}
+    {% assign num = youtubes | size | minus: 1 %}
+{% endif %}
 
 <div id="{{ carousel_id }}" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
-        {% for i in (0..num) %}
-            {% if i == 0 %}
+        {% for i in (start..num) %}
+            {% if i == active %}
             <li data-target="#{{ carousel_id }}" data-slide-to="{{i}}" class="active"></li>
             {% else %}
             <li data-target="#{{ carousel_id }}" data-slide-to="{{i}}"></li>
@@ -18,17 +27,23 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
 
-        {% for i in (0..num) %}
-            {% if i == 0 %}
+        {% for i in (start..num) %}
+            {% if i == active %}
             <div class="item active">
             {% else %}
             <div class="item">
             {% endif %}
 
+
+            {% if post.category == "event" %}
+                <img class="carousel-image" src="/img/events/{{post.event_path}}/{{i}}.jpg" alt="image {{i}}" />
+            {% else %}
                 <iframe class="embed-responsive-item"  width="560" height="315" src="{{ youtubes[i].url }}" frameborder="0" allowfullscreen></iframe>
                 <div class="carousel-caption">
                     {{ youtubes[i].title }}
                 </div>
+
+            {% endif %}
             </div>
         {% endfor %}
 
