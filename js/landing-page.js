@@ -36,6 +36,7 @@ var images = [
     'master-Chieu-training-11-2016.jpg',
     'Olympicpark_08_2016.jpg',
     'vovinam-berlin-christmas-party-12-2016.jpg',
+    'vovinamberlin-team-nov2017.jpg',
 ];
 
 var index = 0;

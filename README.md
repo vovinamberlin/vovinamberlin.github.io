@@ -1,5 +1,10 @@
 # USAGE
 
+## Running locally
+[Jekyll](https://jekyllrb.com) is required to run the page locally.
+
+    $ jekyll serve
+
 ## Writing post
 
 A post use `post` layout, post can contain any further images in the post. The post layout should be made `center` aligned, and its content follows.
