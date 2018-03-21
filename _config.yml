@@ -41,3 +41,6 @@ social:
     url: https://www.youtube.com/channel/UCKdSwa0GupVs0EzVk5MqB0w
   - title: facebook
     url: https://www.facebook.com/vovinamberlin/
+
+source: src
+destination: public
