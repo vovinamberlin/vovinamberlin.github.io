@@ -24,7 +24,7 @@
                 {% for post in site.posts reversed %}
                     {% if post.lang == page.lang and post.menu %}
                     <li>
-                        <a href="{{ post.url }}" >{{ post.menu }}</a>
+                        <a href="{{ post.url }}/" >{{ post.menu }}</a>
                     </li>
                     {% endif %}
                 {% endfor %}

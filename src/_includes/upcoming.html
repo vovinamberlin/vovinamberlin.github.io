@@ -16,7 +16,7 @@
                 {% assign events = site.categories["event"] | sort: "date" %}
 
                 {% for event in events reversed %}
-                    <a href="{{ event.url }}"> <h5>{{ event.title }} </h5></a>
+                    <a href="{{ event.url }}/"> <h5>{{ event.title }} </h5></a>
                 {% endfor %}
 
 

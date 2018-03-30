@@ -4,10 +4,10 @@ lang:
     url: "/"
   en:
     name: "English"
-    url: "/en"
+    url: "/en/"
   vi:
     name: "Tiếng Việt"
-    url: "/vi"
+    url: "/vi/"
 
 training:
   de:
