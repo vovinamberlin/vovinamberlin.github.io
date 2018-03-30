@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: DVVF Ronneburg 2017
+title: DVVF Ronneburg 10/2017
 subTitle: Wochenende in Ronneburg
 lang: de
 ref: 2017-10-ronneburg

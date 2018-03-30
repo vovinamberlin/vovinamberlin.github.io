@@ -12,22 +12,22 @@ lang:
 training:
   de:
     title: Trainingsort und Trainingszeiten
-    monday: "Montag, 20h - 22h, Grundschule auf dem Lichtenberg. Adresse: Atzpodienstr. 19, Berlin. (Erwachsene)"
+    monday: "Montag, 20h - 22h, Grundschule auf dem Lichtenberg. Adresse: Atzpodienstr. 19, Berlin"
     trial: Das Training ist für jedes Alter und Geschlecht möglich. Gerne kannst du kostenlos an unserem Probetraining teilnehmen.
-    saturday: "Samstag, 12h - 15h, Grundschule im Gutspark. Adresse: Josef - Orlopp - Straße 20, 10367, Berlin (Kinder / Jugendliche / Erwachsene)"
-    sunday: "Sonntag, 13h30 - 16h30, Grundschule im Gutspark. Adresse: Josef - Orlopp - Straße 20, 10367, Berlin (Kinder / Jugendliche)"
+    saturday: "Samstag, 12h - 15h, Grundschule im Gutspark. Adresse: Josef - Orlopp - Straße 20, 10367, Berlin "
+    sunday: "Sonntag, 13h30 - 16h30, Grundschule im Gutspark. Adresse: Josef - Orlopp - Straße 20, 10367, Berlin"
   en:
     title: Timetables and training halls
-    monday: "Monday, 20 - 22, Grundschule auf dem Lichtenberg. Address: Atzpodienstr. 19, Berlin. (Adults class)"
+    monday: "Monday, 20 - 22, Grundschule auf dem Lichtenberg. Address: Atzpodienstr. 19, Berlin."
     trial: The martial art is for everyone, you're encouraged to attend two initial free trial trainings.
-    saturday: "Saturday, 12 - 15, Grundschule im Gutspark. Address: Josef - Orlopp - Straße 20, 10367, Berlin (Adults and Children class)"
-    sunday: "Sunday, 13:30 - 16:30, Grundschule im Gutspark. Address: Josef - Orlopp - Straße 20, 10367, Berlin (Adults and Children class)"
+    saturday: "Saturday, 12 - 15, Grundschule im Gutspark. Address: Josef - Orlopp - Straße 20, 10367, Berlin"
+    sunday: "Sunday, 13:30 - 16:30, Grundschule im Gutspark. Address: Josef - Orlopp - Straße 20, 10367, Berlin"
   vi:
     title: Thời gian biểu & Địa điểm tập luyện
-    monday: "Thứ hai, 20h - 22h, Grundschule auf dem Lichtenberg. Địa chỉ: Atzpodienstr. 19, Berlin. (Lớp người lớn)"
+    monday: "Thứ hai, 20h - 22h, Grundschule auf dem Lichtenberg. Địa chỉ: Atzpodienstr. 19, Berlin."
     trial: Môn võ dành cho tất cả mọi người và lứa tuổi từ 7 trở lên, quý vị rất được hoan nghênh đến tập luyện thử hai buổi đầu miễn phí.
-    saturday: "Thứ bảy, 12h - 15h, Grundschule im Gutspark. Địa chỉ: Josef - Orlopp - Straße 20, 10367, Berlin (Lớp trẻ em và người lớn)"
-    sunday: "Chủ nhật, 13h30 - 16h30, Grundschule im Gutspark. Địa chỉ: Josef - Orlopp - Straße 20, 10367, Berlin (Lớp trẻ em và người lớn)"
+    saturday: "Thứ bảy, 12h - 15h, Grundschule im Gutspark. Địa chỉ: Josef - Orlopp - Straße 20, 10367, Berlin"
+    sunday: "Chủ nhật, 13h30 - 16h30, Grundschule im Gutspark. Địa chỉ: Josef - Orlopp - Straße 20, 10367, Berlin"
 
 contact:
   de:
@@ -55,8 +55,6 @@ upcoming:
   de:
     title: "Hier die nächsten Termine, die auf uns zu kommen"
     content: "
-      * 18.-19.11.2017 Freikampf Event in München
-
       * 16.-18.02.2018 Trainerlehrgang in Viernheim
 
       * 16.-18.03.2018 Deutsche Meisterschaft in Langenhagen
@@ -71,8 +69,6 @@ upcoming:
   en:
     title: "Upcoming events organized by DVVF and EVVF in Europe"
     content: "
-      * 18.-19.11.2017 Fighting event in München
-
       * 16.-18.02.2018 Seminar for trainers in Viernheim
 
       * 16.-18.03.2018 DVVF Championship in Langenhagen
@@ -87,8 +83,6 @@ upcoming:
   vi:
     title: "Sự kiện sắp tới do Liên Đoàn Vovinam Đức và Châu Âu tổ chức"
     content: "
-      * 18.-19.11.2017 Tập huấn đối kháng tại München
-
       * 16.-18.02.2018 Tập huấn chuyên môn cho Huấn Luyện Viên tại Viernheim
 
       * 16.-18.03.2018 Giải vô địch quốc gia Vovinam tại Langenhagen

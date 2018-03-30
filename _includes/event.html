@@ -1,34 +1,31 @@
-{% assign count = page.image_count %}
-{% assign various = site.data.translations.various[page.lang] %}
+{% assign count = page.image_count %} {% assign various = site.data.translations.various[page.lang] %}
+
+<script type="text/javascript">
+    window.EVENT_PAGE = {
+        'imageCount': '{{page.image_count}}',
+        'imagePath': '{{page.event_path}}'
+    }
+</script>
 
 <!-- Event Section -->
-    <section id="event" class="container content-section text-center">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h5>{{ page.subTitle }}, {{ count }} {{ various.image }}</h5>
-                <h2>{{ page.title }}</h2>
-                <div class="event-spacer"></div>
-
-            </div>
-        </div>
-
-        <div class="row">
-            <div id="event-gallery">
-            {% for index in (1..count) %}
-                <div class="col-lg-4 col-md-6">
-                    <a href="/img/events/{{page.event_path}}/{{index}}.jpg">
-                        <img class="event-image" src="/img/events/{{page.event_path}}/{{index}}.jpg" alt="image {{index}}" />
-                    </a>
-                </div>
-            {% endfor %}
-            </div>
+<section id="event" class="container content-section text-center">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+            <h5>{{ page.subTitle }}, {{ count }} {{ various.image }}</h5>
+            <h2>{{ page.title }}</h2>
+            <div class="event-spacer"></div>
 
         </div>
+    </div>
 
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                    <span> {{ page.credits }}</span>
-                    {% include disqus_comments.html %}
-            </div>
+    <div class="row">
+        <div id="gallery"></div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+            <span> {{ page.credits }}</span>
+            {% include disqus_comments.html %}
         </div>
-    </section>
+    </div>
+</section>
