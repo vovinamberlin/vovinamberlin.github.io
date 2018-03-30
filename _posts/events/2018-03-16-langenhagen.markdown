@@ -9,9 +9,9 @@ permalink: event-2018-03-meisterschaft-langenhagen
 description: |
 
 comments: true
-image_count: 82
+image_count: 56
 event_path: 2018-03-meisterschaft-langenhagen
 
-credits: Photos by Hoang Pham & others.
+credits: Photos by Hoang Pham & Hong Phuong.
 ---
 
