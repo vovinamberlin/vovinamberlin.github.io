@@ -14,20 +14,20 @@ training:
     title: Trainingsort und Trainingszeiten
     monday: "Montag, 20h - 22h, Grundschule auf dem Lichtenberg. Adresse: Atzpodienstr. 19, Berlin"
     trial: Das Training ist für jedes Alter und Geschlecht möglich. Gerne kannst du kostenlos an unserem Probetraining teilnehmen.
-    saturday: "Samstag, 12h - 15h, Grundschule im Gutspark. Adresse: Josef - Orlopp - Straße 20, 10367, Berlin "
-    sunday: "Sonntag, 13h30 - 16h30, Grundschule im Gutspark. Adresse: Josef - Orlopp - Straße 20, 10367, Berlin"
+    saturday: "Samstag, 12h - 16h, Grundschule im Gutspark. Adresse: Josef - Orlopp - Straße 20, 10367, Berlin "
+    sunday: "Sonntag, 12h - 16h30, Grundschule im Gutspark. Adresse: Josef - Orlopp - Straße 20, 10367, Berlin"
   en:
     title: Timetables and training halls
     monday: "Monday, 20 - 22, Grundschule auf dem Lichtenberg. Address: Atzpodienstr. 19, Berlin."
     trial: The martial art is for everyone, you're encouraged to attend two initial free trial trainings.
-    saturday: "Saturday, 12 - 15, Grundschule im Gutspark. Address: Josef - Orlopp - Straße 20, 10367, Berlin"
-    sunday: "Sunday, 13:30 - 16:30, Grundschule im Gutspark. Address: Josef - Orlopp - Straße 20, 10367, Berlin"
+    saturday: "Saturday, 12 - 16, Grundschule im Gutspark. Address: Josef - Orlopp - Straße 20, 10367, Berlin"
+    sunday: "Sunday, 12:00 - 16:30, Grundschule im Gutspark. Address: Josef - Orlopp - Straße 20, 10367, Berlin"
   vi:
     title: Thời gian biểu & Địa điểm tập luyện
     monday: "Thứ hai, 20h - 22h, Grundschule auf dem Lichtenberg. Địa chỉ: Atzpodienstr. 19, Berlin."
     trial: Môn võ dành cho tất cả mọi người và lứa tuổi từ 7 trở lên, quý vị rất được hoan nghênh đến tập luyện thử hai buổi đầu miễn phí.
-    saturday: "Thứ bảy, 12h - 15h, Grundschule im Gutspark. Địa chỉ: Josef - Orlopp - Straße 20, 10367, Berlin"
-    sunday: "Chủ nhật, 13h30 - 16h30, Grundschule im Gutspark. Địa chỉ: Josef - Orlopp - Straße 20, 10367, Berlin"
+    saturday: "Thứ bảy, 12h - 16h, Grundschule im Gutspark. Địa chỉ: Josef - Orlopp - Straße 20, 10367, Berlin"
+    sunday: "Chủ nhật, 12h - 16h30, Grundschule im Gutspark. Địa chỉ: Josef - Orlopp - Straße 20, 10367, Berlin"
 
 contact:
   de:
