@@ -9,25 +9,29 @@ lang:
     name: "Tiếng Việt"
     url: "/vi"
 
+hall:
+  gsl: "Grundschule auf dem Lichtenberg. Adresse: Atzpodienstr. 19, 10365, Berlin"
+  gg: "Grundschule im Gutspark. Adresse: Josef - Orlopp - Straße 20, 10367, Berlin"
+
 training:
   de:
     title: Trainingsort und Trainingszeiten
-    monday: "Montag, 20h - 22h, Grundschule auf dem Lichtenberg. Adresse: Atzpodienstr. 19, Berlin"
+    monday: "Montag (Erwachsene), 20h - 22h"
     trial: Das Training ist für jedes Alter und Geschlecht möglich. Gerne kannst du kostenlos an unserem Probetraining teilnehmen.
-    saturday: "Samstag, 12h - 16h, Grundschule im Gutspark. Adresse: Josef - Orlopp - Straße 20, 10367, Berlin "
-    sunday: "Sonntag, 12h - 16h30, Grundschule im Gutspark. Adresse: Josef - Orlopp - Straße 20, 10367, Berlin"
+    saturday: "Samstag, 12h - 13:30 (Jungenliche und Kindern). 13:30 - 16:00 (Erwachsene)"
+    sunday: "Sonntag, 12h - 13:30 (Jungenliche und Kindern). 13:30 - 16:00 (Erwachsene)"
   en:
     title: Timetables and training halls
-    monday: "Monday, 20 - 22, Grundschule auf dem Lichtenberg. Address: Atzpodienstr. 19, Berlin."
+    monday: "Monday (Adults), 20 - 22"
     trial: The martial art is for everyone, you're encouraged to attend two initial free trial trainings.
-    saturday: "Saturday, 12 - 16, Grundschule im Gutspark. Address: Josef - Orlopp - Straße 20, 10367, Berlin"
-    sunday: "Sunday, 12:00 - 16:30, Grundschule im Gutspark. Address: Josef - Orlopp - Straße 20, 10367, Berlin"
+    saturday: "Saturday, 12 - 13:30 (Children). 13:30 - 16:00 (Adults)"
+    sunday: "Sunday, 12:00 - 13:30 (Children). 13:30 - 16:00 (Adults)"
   vi:
     title: Thời gian biểu & Địa điểm tập luyện
-    monday: "Thứ hai, 20h - 22h, Grundschule auf dem Lichtenberg. Địa chỉ: Atzpodienstr. 19, Berlin."
+    monday: "Thứ hai (Người lớn), 20h - 22h, Grundschule auf dem Lichtenberg. Địa chỉ: Atzpodienstr. 19, Berlin."
     trial: Môn võ dành cho tất cả mọi người và lứa tuổi từ 7 trở lên, quý vị rất được hoan nghênh đến tập luyện thử hai buổi đầu miễn phí.
-    saturday: "Thứ bảy, 12h - 16h, Grundschule im Gutspark. Địa chỉ: Josef - Orlopp - Straße 20, 10367, Berlin"
-    sunday: "Chủ nhật, 12h - 16h30, Grundschule im Gutspark. Địa chỉ: Josef - Orlopp - Straße 20, 10367, Berlin"
+    saturday: "Thứ bảy, 12h - 13:30 (lớp trẻ em), 13:30 - 16:00 (lớp người lớn)"
+    sunday: "Chủ nhật, 12h - 13:30 (lớp trẻ em), 13:30 - 16:00 (lớp người lớn)"
 
 contact:
   de:
@@ -65,6 +69,8 @@ upcoming:
 
       * 17.-20. Mai 2018 EVVF Seminar in Tenerife, Spanien
 
+      * 30. Juni Demo beim SV Tora Familienfest
+
       * 07.-08. Juli 2018 EVVF Europameisterschaft in Bergamo Italien"
   en:
     title: "Upcoming events organized by DVVF and EVVF in Europe"
@@ -79,6 +85,8 @@ upcoming:
 
       * 17.-20. May 2018 EVVF Seminar in Tenerif, Spain
 
+      * 30. Juni Demo at SV Tora Familienfest
+
       * 07.-08. July 2018 EVVF Championship in Bergamo Italy"
   vi:
     title: "Sự kiện sắp tới do Liên Đoàn Vovinam Đức và Châu Âu tổ chức"
@@ -92,5 +100,7 @@ upcoming:
       * 12.-13. tháng 5 2018, không có tập do phòng tập được sử dụng vào sự kiện của trường học.
 
       * 17.-20. tháng 5 2018 Tập huấn chuyên môn của liên đoàn Châu Âu EVVF tại Tenerif, Tây Ban Nha
+
+      * 30 tháng 6 2018, tham gia biểu diễn tại ngày hội gia đình SV Tora Familienfest
 
       * 07.-08. tháng 7 2018 Giải vô địch Vovinam Châu Âu tổ chức tại Bergamo, Italy"

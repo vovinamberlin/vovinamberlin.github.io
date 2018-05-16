@@ -3,16 +3,18 @@
 
     <div class="container">
         {% assign training = site.data.translations.training[page.lang] %}
+        {% assign hall = site.data.translations.hall %}
         <div class="row">
             <div class="col-lg-5 col-sm-6">
                 <h2 class="section-heading">{{training.title}}</h2>
+                <p>
+                    {{training.trial}}
+                </p>
+                <p>{{hall.gsl}}:</p>
                 <p class="lead">
                     <ul>
                         <li>{{training.monday}}</li>
                     </ul>
-                </p>
-                <p>
-                    {{training.trial}}
                 </p>
                 <div class="embed-responsive embed-responsive-4by3">
                     <iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.9157781328654!2d13.492021315690634!3d52.51686324421432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e967c16058f%3A0x1c517bcf9efbf8e0!2sGrundschule+auf+dem+lichten+Berg!5e0!3m2!1sen!2sde!4v1474841976910" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -24,7 +26,7 @@
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
                 <h2 class="section-heading"></h2>
-
+                <p>{{hall.gg}}:</p>
                 <p>
                     <ul>
                         <li>{{training.saturday}}</li>
