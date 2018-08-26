@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-img: vovinam-berlin-logo.png
+img: logo-vovinam-berlin-bear.png
 category: home
 title: Câu lạc bộ Vovinam Berlin SV-Tora trực thuộc liên đoàn Vovinam Đức - DVVF
 lang: vi

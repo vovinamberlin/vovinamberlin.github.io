@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-img: vovinam-berlin-logo.png
+img: logo-vovinam-berlin-bear.png
 category: home
 title: The Vovinam Berlin SV-Tora is a club inside the German Vovinam Federation - DVVF
 lang: en

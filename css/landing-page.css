@@ -27,12 +27,12 @@ h6 {
 }
 
 .intro-header {
-    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-top: 120px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url('/img/services/vovinam-berlin-logo.png') no-repeat center center;
-    background-size: 400px 400px;
+    background: url('/img/services/logovvnberlin.png') no-repeat center center;
+    background-size: contain;
 }
 
 #about {

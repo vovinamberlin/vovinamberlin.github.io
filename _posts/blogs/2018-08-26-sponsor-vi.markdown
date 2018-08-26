@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-img: sponsor.png
+img: supporters.png
 category: home
 title: THƯ KÊU GỌI TÀI TRỢ
 lang: vi
@@ -20,7 +20,7 @@ Câu lạc bộ Vovinam Berlin được thành lập từ tháng 06/2016 đến 
 Phương châm và tôn chỉ của câu lạc bộ là cố gắng giới thiệu môn võ Vovinam Việt Võ Đạo đến cho đông đảo cộng đồng bà con người Việt tại Berlin cũng như người dân bản xứ. Để câu lạc bộ có thêm nguồn kinh phí để hoạt động, mua thêm trang thiết bị dụng cụ tập luyện và gần nhất là tổ chức sự kiện thi lên đai và seminar trong hai ngày cuối tuần tại hồ Köriser See, Berlin Brandenburg, chúng tôi rất mong nhận được sự đóng góp từ quý kiều bào, doanh nhân, nhà hảo tâm để sự kiện được tổ chức chu đáo.
 
 
-![Tài trợ cho Vovinam Berlin](/img/services/sponsor.png)
+![Tài trợ cho Vovinam Berlin](/img/services/supporters.png)
 
 ### SUPPORTERS  (Ủng Hộ)
 

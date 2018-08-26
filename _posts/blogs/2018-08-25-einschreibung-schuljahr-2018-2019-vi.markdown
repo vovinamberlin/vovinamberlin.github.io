@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-img: einschreibung.png
+img: vovinam-berlin-flyer-chieu-sinh.png
 category: home
 title: THÔNG BÁO CHIÊU SINH CLB VOVINAM BERLIN
 lang: vi
@@ -49,3 +49,6 @@ Chương trình được giảng dạy bằng hai thứ tiếng Việt và Đứ
 ### Về huấn luyện viên Hoàng Phạm
 
 Anh tập luyện môn võ từ cuối năm 2010 tại Ý dưới sự hướng dẫn của võ sư Vittorio Cera, giám đốc kỹ thuật liên đoàn Vovinam Châu Âu. Đến đầu năm 2016, thì anh sang Berlin làm việc cho 1 startup với vai trò lập trình viên, giữa năm 2016, với sự trợ giúp của võ sư Trần Đại Chiêu từ Frankfurt, anh đã hợp tác với anh Hoàng Vinh phục hồi lại phong trào tập luyện Vovinam tại Berlin. Hiện anh đang công tác tại công ty HelloFresh và thời gian cuối tuần thì sinh hoạt tập võ tại câu lạc bộ Vovinam Berlin. Anh đang mang Hoàng Đai Nhất Cấp.
+
+
+![Tờ rơi chiêu sinh Vovinam Berlin](/img/services/vovinam-berlin-flyer-chieu-sinh.png)

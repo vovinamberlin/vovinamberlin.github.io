@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-img: sponsor.png
+img: supporters.png
 category: home
 title: SUPPORT VOVINAM BERLIN TEAM !
 lang: en
@@ -14,7 +14,7 @@ Through donations and sponsorships, you allow the team to move forward with its 
 
 <!--more-->
 
-![Sponsor Vovinam Berlin](/img/services/sponsor.png)
+![Sponsor Vovinam Berlin](/img/services/supporters.png)
 
 ### SUPPORTERS
 

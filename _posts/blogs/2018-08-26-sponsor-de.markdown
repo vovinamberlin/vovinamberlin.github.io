@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-img: sponsor.png
+img: supporters.png
 category: home
 title: UNTERSTÜTZEN SIE DAS VOVINAM-BERLIN-TEAM !
 lang: de
@@ -17,7 +17,7 @@ und vor allem unterstützen Sie uns bei der Anschaffung von neuem und hochwertig
 
 <!--more-->
 
-![Sponsor Vovinam Berlin](/img/services/sponsor.png)
+![Sponsor Vovinam Berlin](/img/services/supporters.png)
 
 #### SUPPORTER
 
