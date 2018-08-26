@@ -2,7 +2,7 @@
 layout: post
 excerpt_separator: <!--more-->
 img: trainer_Hoang.png
-category: home
+category: team
 title: Trainer Hoang Pham
 lang: en
 ref: trainer_hoang

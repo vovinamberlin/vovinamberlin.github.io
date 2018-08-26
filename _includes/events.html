@@ -1,0 +1,25 @@
+<!-- About Section -->
+{% assign upcoming = site.data.translations.upcoming[page.lang] %}
+{% assign various = site.data.translations.various[page.lang]
+    %}
+
+    <section id="about" class="container content-section text-center">
+        <div class="row">
+            <h2>{{ upcoming.title }}</h2>
+            <br/> {{ upcoming.content || markdownify }}
+
+        </div>
+
+
+        <div class="row">
+            <br/><br/>
+            <h2>{{ various.latest_event }}</h2>
+
+            {% assign events = site.categories["event"] | sort: "date" %} {% for event in events reversed %}
+            <a href="{{ event.url }}"> <h5>{{ event.title }} </h5></a>
+            {% endfor %}
+
+
+
+        </div>
+    </section>

@@ -1,6 +1,7 @@
-<section id="services">
+<section id="page-content">
 <!-- Page Content -->
 {% assign various = site.data.translations.various[page.lang] %}
+
 {% for post in site.categories[page.category] reversed %}
   {% if post.lang == page.lang %}
     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}

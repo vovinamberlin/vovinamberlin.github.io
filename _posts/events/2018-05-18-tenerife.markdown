@@ -1,0 +1,17 @@
+---
+layout: event
+category: event
+title: EVVF Seminar Tenerife 05/2018
+subTitle: Tenerife, Spagna
+lang: de
+ref: 2018-05-18-tenerife
+permalink: event-2018-05-18-tenerife
+description: |
+
+comments: true
+image_count: 0
+event_path: 2018-05-18-tenerife
+
+credits:
+---
+

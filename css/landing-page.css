@@ -31,8 +31,13 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/Olympicpark_08_2016.jpg) no-repeat center center;
-    background-size: cover;
+    background: url('/img/services/vovinam-berlin-logo.png') no-repeat center center;
+    background-size: 400px 400px;
+}
+
+#about {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
 }
 
 .intro-message {

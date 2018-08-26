@@ -2,7 +2,7 @@
 layout: post
 excerpt_separator: <!--more-->
 img: master_Chieu.png
-category: home
+category: team
 title: Võ Sư Trần Đại Chiêu
 lang: vi
 ref: master_tdc

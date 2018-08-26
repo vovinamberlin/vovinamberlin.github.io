@@ -9,6 +9,17 @@ lang:
     name: "Tiếng Việt"
     url: "/vi"
 
+team:
+  de:
+    name: "Das Team"
+    url: "/team"
+  en:
+    name: "The Team"
+    url: "/team-en"
+  vi:
+    name: "Về đội ngũ"
+    url: "/team-vi"
+
 hall:
   gsl: "Grundschule auf dem Lichtenberg. Adresse: Atzpodienstr. 19, 10365, Berlin"
   gg: "Grundschule im Gutspark. Adresse: Josef - Orlopp - Straße 20, 10367, Berlin"
@@ -44,63 +55,76 @@ contact:
 various:
   de:
     more: Mehr ...
-    latest_event: Die neueste Veranstaltungen
+    latest_event: Die vergangenen Veranstaltungen
     image: Bilde
   en:
     more: Read more ...
-    latest_event: Latest events
+    latest_event: The past events
     image: Images
   vi:
     more: Đọc thêm ...
-    latest_event: Sự kiện mới nhất
+    latest_event: Sự kiện đã diễn ra
     image: Hình
 
 upcoming:
   de:
     title: "Hier die nächsten Termine, die auf uns zu kommen"
     content: "
-      * 16.-18.02.2018 Trainerlehrgang in Viernheim
 
-      * 16.-18.03.2018 Deutsche Meisterschaft in Langenhagen
+      [21.-23. September 2018 Gürtelprüfung - Seminar am Köriser See](https://docs.google.com/document/d/18xMU9NN4aJerIm5uYIURgYhnVBcCrwGZmIZTUJpvnrU/)
 
-      * 04.-06. Mai 2018 Gio to Wochenende in Ronneburg (mit Gelbgurtprüfung)
 
-      * 12.-13. Mai 2018 Kein Training wegen schulischer Veranstaltungen in die Halle Josef-Orlopp-Str. 20
+      [29.-30. September 2018 Oktoberfestlehrgang in München]()
 
-      * 17.-20. Mai 2018 EVVF Seminar in Tenerife, Spanien
 
-      * 30. Juni Demo beim SV Tora Familienfest
+      [15.-16. December 2018 Weihnachtsfeier in Berlin]()
 
-      * 07.-08. Juli 2018 EVVF Europameisterschaft in Bergamo Italien"
+
+      [April 2019 DVVF Jugendmeisterschaft in Frankfurt am Main](http://www.vovinam-in-dvvf.eu/)
+
+
+      [Oktober 2019 Europajugendmeisterschaft in Frankfurt am Main](http://www.vovinam-in-dvvf.eu/)
+
+      "
+
   en:
-    title: "Upcoming events organized by DVVF and EVVF in Europe"
+    title: "Upcoming events that Vovinam Berlin will participate at"
     content: "
-      * 16.-18.02.2018 Seminar for trainers in Viernheim
 
-      * 16.-18.03.2018 DVVF Championship in Langenhagen
+      [21st - 23rd September 2018 Gürtelprüfung - Seminar am Köriser See](https://docs.google.com/document/d/18xMU9NN4aJerIm5uYIURgYhnVBcCrwGZmIZTUJpvnrU/)
 
-      * 04.-06. May 2018 Gio To Seminar in Ronneburg (with Yellow Belt Examinations)
 
-      * 12.-13. May 2018, No training due to hall being taken to organize school events
+      [29th - 30th September 2018 Oktoberfestlehrgang in München]()
 
-      * 17.-20. May 2018 EVVF Seminar in Tenerif, Spain
 
-      * 30. Juni Demo at SV Tora Familienfest
+      [15th - 16th December 2018 Weihnachtsfeier in Berlin]()
 
-      * 07.-08. July 2018 EVVF Championship in Bergamo Italy"
+
+      [April 2019 DVVF Jugendmeisterschaft in Frankfurt am Main](http://www.vovinam-in-dvvf.eu/)
+
+
+      [Oktober 2019 Europajugendmeisterschaft in Frankfurt am Main](http://www.vovinam-in-dvvf.eu/)
+
+
+      "
+
   vi:
-    title: "Sự kiện sắp tới do Liên Đoàn Vovinam Đức và Châu Âu tổ chức"
+    title: "Sự kiện sắp tới Vovinam Berlin sẽ tham dự"
     content: "
-      * 16.-18.02.2018 Tập huấn chuyên môn cho Huấn Luyện Viên tại Viernheim
 
-      * 16.-18.03.2018 Giải vô địch quốc gia Vovinam tại Langenhagen
+      [21.-23 tháng 9 2018 Seminar và thi lên đai cho đai xanh tại hồ Köriser See, Berlin - Brandenburg ](https://docs.google.com/document/d/18xMU9NN4aJerIm5uYIURgYhnVBcCrwGZmIZTUJpvnrU/)
 
-      * 04.-06. tháng 5 2018 Tập huấn chuyên môn kết hợp Tưởng niệm Giỗ Tổ tại Ronneburg, và thi cho cấp Hoàng Đai
 
-      * 12.-13. tháng 5 2018, không có tập do phòng tập được sử dụng vào sự kiện của trường học.
+      [29.-30. tháng 9 2018 tập huấn chuyên môn nhân dịp Oktoberfest tại Munich]()
 
-      * 17.-20. tháng 5 2018 Tập huấn chuyên môn của liên đoàn Châu Âu EVVF tại Tenerif, Tây Ban Nha
 
-      * 30 tháng 6 2018, tham gia biểu diễn tại ngày hội gia đình SV Tora Familienfest
+      [15.-16. tháng 12 2018 liên hoan Giáng Sinh và giao hữu đối kháng tại Berlin]()
 
-      * 07.-08. tháng 7 2018 Giải vô địch Vovinam Châu Âu tổ chức tại Bergamo, Italy"
+
+      [Tháng 4 2019 Giải vô địch thiếu niên Đức DVVF tại Frankfurt am Main](http://www.vovinam-in-dvvf.eu/)
+
+
+      [Tháng 10 2019 Giải vô địch thiếu niên Châu Âu tại Frankfurt am Main](http://www.vovinam-in-dvvf.eu/)
+
+      "
+

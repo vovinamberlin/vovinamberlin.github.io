@@ -2,7 +2,7 @@
 layout: post
 excerpt_separator: <!--more-->
 img: master_Chieu.png
-category: home
+category: team
 title: Master Trần Đại Chiêu
 lang: en
 ref: master_tdc

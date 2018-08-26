@@ -21,6 +21,14 @@
                 </li>
                 {% endfor %}
 
+                {% for item in site.data.translations.team %}
+                    {% if item[0] == page.lang %}
+                        <li>
+                            <a href="{{ item[1].url }}" class="{{ item[0] }}">{{ item[1].name }}</a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+
                 {% for post in site.posts reversed %}
                     {% if post.lang == page.lang and post.menu %}
                     <li>

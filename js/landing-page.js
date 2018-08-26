@@ -30,28 +30,28 @@ $('div.modal').on('show.bs.modal', function() {
 	}
 });
 
-var images = [
-    'master-Chieu-blue-belt-exam-berlin-04-2017.jpg',
-    'master-Chieu-Du-training-with-vovinam-berlin-team-09-2017.jpg',
-    'master-Chieu-training-11-2016.jpg',
-    'Olympicpark_08_2016.jpg',
-    'vovinam-berlin-christmas-party-12-2016.jpg',
-    'vovinamberlin-team-nov2017.jpg',
-];
+// var images = [
+//     'master-Chieu-blue-belt-exam-berlin-04-2017.jpg',
+//     'master-Chieu-Du-training-with-vovinam-berlin-team-09-2017.jpg',
+//     'master-Chieu-training-11-2016.jpg',
+//     'Olympicpark_08_2016.jpg',
+//     'vovinam-berlin-christmas-party-12-2016.jpg',
+//     'vovinamberlin-team-nov2017.jpg',
+// ];
 
-var index = 0;
+// var index = 0;
 
-setInterval(rotateBannerBackgroundImages, 5000);
+// setInterval(rotateBannerBackgroundImages, 5000);
 
-function rotateBannerBackgroundImages(){
+// function rotateBannerBackgroundImages(){
 
-    index = (index + 1 < images.length) ? index + 1 : 0;
+//     index = (index + 1 < images.length) ? index + 1 : 0;
 
-    $('.intro-header').fadeOut(300, function(){
+//     $('.intro-header').fadeOut(300, function(){
 
-        $(this).css('background-image', 'url(../img/cover/'+ images[index] + ')')
+//         $(this).css('background-image', 'url(../img/cover/'+ images[index] + ')')
 
-        $(this).fadeIn(300);
+//         $(this).fadeIn(300);
 
-    });
-}
+//     });
+// }
