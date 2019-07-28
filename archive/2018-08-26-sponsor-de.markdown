@@ -2,7 +2,7 @@
 layout: post
 excerpt_separator: <!--more-->
 img: supporters.png
-category: home
+category: page
 title: UNTERSTÜTZEN SIE DAS VOVINAM-BERLIN-TEAM !
 lang: de
 ref: sponsor
@@ -25,7 +25,6 @@ Sie sind großartig! Sie unterstützen das Team mit Ihrer investierten Zeit und 
 
 Ihr Name wird für immer auf unserer Webseite zu sehen sein.
 
-
 #### BRONZE SUPPORTER
 
 Sie spenden 10€ bis 50€ an das Vovinam-Berlin-Team.
@@ -33,7 +32,6 @@ Sie spenden 10€ bis 50€ an das Vovinam-Berlin-Team.
 Ihr Name/Firmenname wird für immer auf unserer Webseite zu sehen sein.
 
 Außerdem belohnen wir Sie mit einem Vovinam Việt Võ Đạo Schlüsselanhänger.
-
 
 #### SILBER SUPPORTER
 
@@ -44,7 +42,6 @@ Ihr Name/Firmenname/Logo wird für immer auf unserer Webseite zu sehen sein.
 Außerdem bedanken wir uns bei Ihnen mit einem Vovinam Việt Võ Đạo Schlüsselanhänger
 
 und einem T-Shirt unseres Teams in der Größe Ihrer Wahl mit unserem neuen, coolen Logo darauf.
-
 
 #### GOLD SUPPORTER
 
@@ -69,7 +66,6 @@ einem T-Shirt UND einem Pullover unseres Teams in den Größen Ihrer Wahl mit un
 Ebenso wird Ihr Name/Firmenname/Logo mit einer persönlichen Danksagung auf unserer Webseite vermerkt.
 
 Hinzu kommt, dass Ihr Firmenlogo auf einer Seite unseres Team-Fahrzeugs für ein ganzes Jahr gedruckt sein wird.
-
 
 ## WIE SPENDE ICH?
 

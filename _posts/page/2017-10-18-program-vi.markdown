@@ -2,7 +2,7 @@
 layout: post
 excerpt_separator: <!--more-->
 img:
-category: home
+category: page
 title: Chương trình đào tạo và huấn luyện
 lang: vi
 ref: program

@@ -2,7 +2,7 @@
 layout: post
 excerpt_separator: <!--more-->
 img:
-category: home
+category: page
 title: Training program
 lang: en
 ref: program

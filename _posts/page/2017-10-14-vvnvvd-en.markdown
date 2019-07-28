@@ -6,7 +6,7 @@ youtubes:
     title: Vovinam Viet Vo Dao Demo at Berlinfamiliensportfest 2017, Olympicpark Berlin.
   - url: https://www.youtube.com/embed/JaAr5QgLsAw
     title: Vovinam Frankfurt am Main Demo at Old People's House in Westend - September 2016
-category: home
+category: page
 title: Vovinam Việt Võ Đạo is a martial art from Vietnam!
 lang: en
 ref: vvnvvd
@@ -14,7 +14,8 @@ permalink: vovinam-viet-vo-dao-english
 menu: Vovinam
 description: |
 ---
-  Vovinam (short for Võ Việt Nam; Vietnamese: Việt Võ Đạo, Martial Arts of Vietnam) is a Vietnamese martial art.
+
+Vovinam (short for Võ Việt Nam; Vietnamese: Việt Võ Đạo, Martial Arts of Vietnam) is a Vietnamese martial art.
 
 Vovinam is practiced with and without weapons. It is based on the principle of between hard and soft. It includes training of the body as well as the mind. It uses force and reaction of the opponent. Vovinam also includes hand, elbow, kicks, escape- and levering techniques. Both attack and defense techniques are trained, as well as forms, combat and traditional wrestling. The wide range of techniques include punching, kicking, forms, wrestling, sword, staff, axe, folding fan and others.
 
@@ -43,4 +44,3 @@ Some nice leg attacks photos from the German Vovinam Championship 2017 in Frankf
 ![Vovinam Leg Attack](/img/vvnvvd/leg_attack_07_resized.jpg)
 
 ![Vovinam Leg Attack](/img/vvnvvd/leg_attack_03_resized.jpg)
-

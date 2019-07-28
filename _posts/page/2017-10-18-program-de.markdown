@@ -2,7 +2,7 @@
 layout: post
 excerpt_separator: <!--more-->
 img:
-category: home
+category: page
 title: Trainingsinhalte
 lang: de
 ref: program
@@ -10,7 +10,6 @@ permalink: das-programm
 menu: Das Programm
 description: |
 ---
-
 
 Das Training basiert auf dem Programm des DDVF (Deutscher Vovinam Viet Vo Dao Fachverband), welches auf dem Programm des Weltverbandes aufbaut.
 
@@ -25,7 +24,6 @@ Das Training basiert auf dem Programm des DDVF (Deutscher Vovinam Viet Vo Dao Fa
 [Grundsatzordnung](/download/dvvf/grundsatzordnung_dvvf_20160312.pdf)
 
 [Turnierhandbuch Deutsche Meisterschaft 2017](/download/dvvf/Turnierhandbuch_DM2017.pdf)
-
 
 <!--more-->
 

@@ -6,7 +6,7 @@ youtubes:
     title: Biểu diễn Vovinam Việt Võ Đạo tại ngày hội thể thao gia đình Berlinfamiliensportfest 2017, Olympicpark Berlin.
   - url: https://www.youtube.com/embed/JaAr5QgLsAw
     title: Vovinam Frankfurt biểu diễn tại Altemheim im Westend - September 2016
-category: home
+category: page
 title: Người Việt học võ Việt!
 lang: vi
 ref: vvnvvd
@@ -14,7 +14,8 @@ permalink: vovinam-viet-vo-dao-tieng-viet
 menu: Vovinam
 description: |
 ---
-  Vovinam là môn võ được võ sư Nguyễn Lộc sáng lập vào năm 1936 nhưng lúc này hoạt động âm thầm, đến 1938 mới đem ra công khai đồng thời ông đề ra chủ thuyết "cách mạng tâm thân" để thúc đẩy môn sinh luôn luôn canh tân bản thân, và hướng thiện về thể chất lẫn tinh thần
+
+Vovinam là môn võ được võ sư Nguyễn Lộc sáng lập vào năm 1936 nhưng lúc này hoạt động âm thầm, đến 1938 mới đem ra công khai đồng thời ông đề ra chủ thuyết "cách mạng tâm thân" để thúc đẩy môn sinh luôn luôn canh tân bản thân, và hướng thiện về thể chất lẫn tinh thần
 
 Vovinam được phát triển dựa trên môn vật cổ truyền Việt Nam, kết hợp với những tinh hoa của các môn phái võ thuật trên khắp thế giới. Dựa trên nguyên lý Cương Nhu Phối Triển, môn sinh Vovinam được tập luyện những đòn thế tay không, cùi chỏ, chân, gối cho đến các loại vũ khí như kiếm, đao, mã tấu, dao, côn, quạt... Ngoài ra, môn sinh còn được học cách đối phó với vũ khí bằng tay không, các lối phản đòn, khóa gỡ và các đòn vật. [wiki](https://de.wikipedia.org/wiki/Vovinam)
 
@@ -27,8 +28,6 @@ Biểu diễn Vovinam Việt Võ Đạo tại ngày hội thể thao gia đình 
 Vovinam Frankfurt biểu diễn tại Altemheim im Westend - September 2016
 
 <iframe class="embed-responsive-item"  width="560" height="315" src="https://www.youtube.com/embed/JaAr5QgLsAw" frameborder="0" allowfullscreen></iframe>
-
-
 
 Một số hình ảnh đánh đòn chân tấn công Vovinam biểu diễn tại sự kiện giải vô địch Vovinam Đức 2017:
 
@@ -45,4 +44,3 @@ Một số hình ảnh đánh đòn chân tấn công Vovinam biểu diễn tạ
 ![Vovinam Leg Attack](/img/vvnvvd/leg_attack_07_resized.jpg)
 
 ![Vovinam Leg Attack](/img/vvnvvd/leg_attack_03_resized.jpg)
-

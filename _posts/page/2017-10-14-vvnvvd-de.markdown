@@ -7,7 +7,7 @@ youtubes:
   - url: https://www.youtube.com/embed/JaAr5QgLsAw
     title: Vovinam Frankfurt am Main Demo at Old People's House in Westend - September 2016
 
-category: home
+category: page
 title: Vovinam Việt Võ Đạo ist eine Kampfkunst aus Vietnam
 lang: de
 ref: vvnvvd
@@ -18,7 +18,7 @@ description: |
 
 Vovinam ist eine Kampfkunst und Kampfsportart aus Vietnam und leider noch relativ unbekannt in Deutschland. Der noch junge und in Berlin ansässige Verein möchte dies in Zusammenarbeit mit der Gruppe aus Frankfurt/Main ändern und den Zuschauern diese interessante Sportart näher bringen!
 
-Im Blaugurt-, also Schülerbereich, erlernen Interessenten klassischerweise Selbstverteidigungstechniken, Fallschule und sowie Grundlagen in Faust- und Fußtritten. In der höhergraduierten Trainerstufe, dem Gelbgurtbereich, kommen dann u.a. viele traditionelle asiatische Waffen dazu, wie Kurz- und  Langstock, Messer, Schwert, Hellebarde, etc. Eine Besonderheit des Vovinams sind neben den Waffen aber auch die sogenannten Beinscheren, bei denen man mit den Füßen voran an den Körper oder Hals des Gegners springt.
+Im Blaugurt-, also Schülerbereich, erlernen Interessenten klassischerweise Selbstverteidigungstechniken, Fallschule und sowie Grundlagen in Faust- und Fußtritten. In der höhergraduierten Trainerstufe, dem Gelbgurtbereich, kommen dann u.a. viele traditionelle asiatische Waffen dazu, wie Kurz- und Langstock, Messer, Schwert, Hellebarde, etc. Eine Besonderheit des Vovinams sind neben den Waffen aber auch die sogenannten Beinscheren, bei denen man mit den Füßen voran an den Körper oder Hals des Gegners springt.
 
 <!--more-->
 

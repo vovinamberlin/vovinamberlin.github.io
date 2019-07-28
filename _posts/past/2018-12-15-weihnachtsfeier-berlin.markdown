@@ -1,6 +1,6 @@
 ---
 layout: event
-category: upcoming
+category: past
 title: Weihnachtsfeier in Berlin 12/2018
 subTitle:
 lang: de
@@ -14,4 +14,3 @@ event_path: 2018-12-15-weihnachtsfeier-berlin
 
 credits:
 ---
-

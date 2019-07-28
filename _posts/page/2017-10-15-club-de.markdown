@@ -2,20 +2,19 @@
 layout: post
 excerpt_separator: <!--more-->
 img: vovinam-berlin-logo-simple-white-background.png
-category: home
-title: The Vovinam Berlin SV-Tora is a club inside the German Vovinam Federation - DVVF
-lang: en
+category: page
+title: Der Vovinam Verein Berlin gehört zum DVVF, dem deutschen Vovinam Fachverband
+lang: de
 ref: club
-permalink: club-vovinam-berlin
-menu: Club
+permalink: klub-vovinam-berlin
+menu: Klub
 comments: true
 description: |
 ---
 
-After the initial period training in the Hoan Kiem driving school, and many times in the park. The Vovinam Berlin is now a department inside [SV-Tora Berlin](http://www.sv-tora.de/trainingszeiten.php) club.
+Dank der Hilfe von [Meister Trần Đại Chiêu](http://www.vovinam-in-dvvf.eu) (6. Dang) und Vizepräsident des DVVF, sowie der Fahrschule Hoan Kiem und Hr. Hoang Vinh wurde die Trainingsgruppe Berlin-Lichtenberg wieder ins Leben gerufen.
 
-And it is also a member of the German Vovinam Federation.
-Vovinam Viet Vo Dao German Federation website: [DVVF](http://www.vovinam-in-dvvf.eu)
+Deutsche Vovinam Viet Vo Dao Fachverband website: [DVVF](http://www.vovinam-in-dvvf.eu)
 
 <!--more-->
 

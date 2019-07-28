@@ -2,7 +2,7 @@
 layout: post
 excerpt_separator: <!--more-->
 img: supporters.png
-category: home
+category: page
 title: SUPPORT VOVINAM BERLIN TEAM !
 lang: en
 ref: sponsor
