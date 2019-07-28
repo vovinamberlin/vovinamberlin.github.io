@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-img: logo-vovinam-berlin-bear.png
+img: vovinam-berlin-logo-simple-white-background.png
 category: home
 title: Câu lạc bộ Vovinam Berlin SV-Tora trực thuộc liên đoàn Vovinam Đức - DVVF
 lang: vi
@@ -18,10 +18,10 @@ Ngoài ra, câu lạc bộ Vovinam Berlin cũng là thành viên của liên đo
 Website Liên đoàn Vovinam Đức: [DVVF](http://www.vovinam-in-dvvf.eu/)
 
 <!--more-->
+
 Logo của câu lạc bộ với hình chú gấu Berlin mặc Võ Phục Vovinam - Việt Võ Đạo.
 
 ![Vovinam Berlin logo](/img/services/vovinam-berlin-logo.png)
-
 
 Buổi tập đầu tiên đánh dấu sự hồi sinh của câu lạc bộ Vovinam Berlin tại trường dạy lái xe Hoàn Kiếm vào ngày 2/06/2016.
 
@@ -42,7 +42,6 @@ Tháng 7 2016, Hoàng Phạm đã có chuyến tham dự như là khách tham qu
 Tháng 11 2016, võ sư Trần Đại Chiêu đã có 3 ngày tập huấn cùng với cả đội tại Berlin:
 
 ![tập huấn với võ sư Chiêu tháng 11 2016](/img/master-Chieu-training-11-2016.jpg)
-
 
 Lần đầu tiên đội đã có 1 kỳ sinh hoạt tập thể chào mừng Giáng Sinh 2016 với thi đấu đối kháng và liên hoan ẩm thực từ các nước do môn sinh tự mang đến:
 
@@ -76,7 +75,7 @@ Tháng 07 2017, câu lạc bộ đã có buổi biểu diễn Vovinam (quyền, 
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fweb.facebook.com%2Fvovinamberlin%2Fvideos%2F394110247651183%2F&width=500&show_text=false&appId=932948800187701&height=280" width="500" height="280" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-Tháng 09/2017, lần thứ hai câu lạc bộ tham gia vào ngày hội thể thao gia đình của thành phố Berlin  (Berlinfamiliensportfest 2017), đội đã mời đoàn Vovinam Frankfurt lên biểu diễn một tiết mục thật hoành tráng, tổng hợp tất cả các màn biểu diễn đẹp của Vovinam khiến khán giả tại Berlin phải trầm trồ khen ngợi.
+Tháng 09/2017, lần thứ hai câu lạc bộ tham gia vào ngày hội thể thao gia đình của thành phố Berlin (Berlinfamiliensportfest 2017), đội đã mời đoàn Vovinam Frankfurt lên biểu diễn một tiết mục thật hoành tráng, tổng hợp tất cả các màn biểu diễn đẹp của Vovinam khiến khán giả tại Berlin phải trầm trồ khen ngợi.
 
 Ngày đầu tiên đến Berlin, đoàn Vovinam Frankfurt đã có buổi tập huấn cùng đội Vovinam Berlin:
 
@@ -90,7 +89,7 @@ Tháng 10/2017, đội với nhiều gương mặt mới đã tham dự 3 ngày 
 
 ![Ronneburg 2017](/img/Ronneburg_10_2017_group.jpg)
 
-*Tham khảo thêm bài viết dưới đây của Hoàng Phạm, viết vào ngày 12/07/2017:*
+_Tham khảo thêm bài viết dưới đây của Hoàng Phạm, viết vào ngày 12/07/2017:_
 
 ### Vovinam Berlin những bước phát triển
 

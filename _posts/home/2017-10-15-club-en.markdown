@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-img: logo-vovinam-berlin-bear.png
+img: vovinam-berlin-logo-simple-white-background.png
 category: home
 title: The Vovinam Berlin SV-Tora is a club inside the German Vovinam Federation - DVVF
 lang: en
@@ -11,6 +11,7 @@ menu: Club
 comments: true
 description: |
 ---
+
 After the initial period training in the Hoan Kiem driving school, and many times in the park. The Vovinam Berlin is now a department inside [SV-Tora Berlin](http://www.sv-tora.de/trainingszeiten.php) club.
 
 And it is also a member of the German Vovinam Federation.
@@ -32,7 +33,7 @@ In July 2016, Hoang Pham joined the DVVF team to attend the European Vovinam Cha
 
 ![European Vovinam Championship in Geneve](/img/DVVF-Geneve2016.JPG)
 
-The team participated actively in Berlin City's sports event,  trained for the whole day in the park for dozens of newcomers at the Berlin Familiensportfest  August 2016
+The team participated actively in Berlin City's sports event, trained for the whole day in the park for dozens of newcomers at the Berlin Familiensportfest August 2016
 
 ![Training at the Berlin Familiensportfest  August 2016](/img/Olympicpark_cool.JPG)
 
@@ -82,10 +83,6 @@ The performance at the event:
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fweb.facebook.com%2Fvovinamberlin%2Fvideos%2F416381108757430%2F&width=500&show_text=false&appId=932948800187701&height=280" width="500" height="280" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-
 In October 2017, the team joined a Weekend seminar and training in Ronneburg with 6 athletes.
 
 ![Ronneburg 2017](/img/Ronneburg_10_2017_group.jpg)
-
-
-

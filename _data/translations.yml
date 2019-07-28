@@ -21,25 +21,25 @@ team:
     url: "/team-vi"
 
 hall:
-  gsl: "Grundschule auf dem Lichtenberg. Adresse: Atzpodienstr. 19, 10365, Berlin"
+  gsl: "Mildred-Harnack-Schule. Adresse: Schulze-Boysen-Straße 20, 10365, Berlin"
   gg: "Grundschule im Gutspark. Adresse: Josef - Orlopp - Straße 20, 10367, Berlin"
 
 training:
   de:
     title: Trainingsort und Trainingszeiten
-    monday: "Montag (Erwachsene), 20:30 - 22:00"
+    wednesday: "Mittwoch (Erwachsene), 20:30 - 22:00"
     trial: Das Training ist für jedes Alter und Geschlecht möglich. Gerne kannst du kostenlos an unserem Probetraining teilnehmen.
     saturday: "Samstag, 12:00 - 13:30 (Erwachsene und Kinder). 13:30 - 16:00 (Erwachsene)"
     sunday: "Sonntag, 13:30 - 15:00 (Erwachsene und Kinder). 15:00 - 16:30 (Erwachsene)"
   en:
     title: Timetables and training halls
-    monday: "Monday (Adults), 20:30 - 22:00"
+    wednesday: "Wednesday (Adults), 20:30 - 22:00"
     trial: The martial art is for everyone, you're encouraged to attend two initial free trial trainings.
     saturday: "Saturday, 12 - 13:30 (Children and Adults). 13:30 - 16:00 (Adults)"
     sunday: "Sunday, 13:30 - 15:00 (Children and Adults). 15:00 - 16:30 (Adults)"
   vi:
     title: Thời gian biểu & Địa điểm tập luyện
-    monday: "Thứ hai (Người lớn), 20:30h - 22h, Grundschule auf dem Lichtenberg. Địa chỉ: Atzpodienstr. 19, Berlin."
+    wednesday: "Thứ tư (Người lớn), 20:30h - 22h, Grundschule auf dem Lichtenberg. Địa chỉ: Atzpodienstr. 19, Berlin."
     trial: Môn võ dành cho tất cả mọi người và lứa tuổi từ 7 trở lên, quý vị rất được hoan nghênh đến tập luyện thử hai buổi đầu miễn phí.
     saturday: "Thứ bảy, 12h - 13:30 (lớp người lớn & trẻ em), 13:30 - 16:00 (lớp người lớn)"
     sunday: "Chủ nhật, 13:30h - 15:00 (lớp người lớn & trẻ em), 15:00 - 16:30 (lớp người lớn)"
@@ -127,4 +127,3 @@ upcoming:
       [Tháng 10 2019 Giải vô địch thiếu niên Châu Âu tại Frankfurt am Main](http://www.vovinam-in-dvvf.eu/)
 
       "
-
