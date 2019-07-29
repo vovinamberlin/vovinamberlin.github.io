@@ -4,7 +4,7 @@ excerpt_separator: <!--more-->
 img: vovinam-berlin-logo-simple-white-background.png
 
 category: home
-title: Training und Demo beim Berlin Familiensportfest 2019
+title: Training und Demoauftritte beim Familiensportfest Berlin im Olympiastadion Berlin.
 lang: de
 ref: berlin-familiensportfest-2019
 permalink: berlin-familiensportfest-2019-deutsche
@@ -12,28 +12,29 @@ menu: Vovinam
 description: |
 ---
 
-Vovinam Berlin nimmt an [Berlinfamiliensportfest](https://familiensportfest-berlin.de/) 2019 beim Olympiapark teil.
+Der Verein Vovinam Berlin wird an dem Familiensportfest Berlin 2019 (https://familiensportfest-berlin.de/), das auf dem Olympiapark stattfindet, mit vielen weiteren anderen Berliner Sportvereinen teilnehmen.
 
 Adresse: Olympiapark, Bezirk Charlottenburg-Wilmersdorf, 14053 Berlin
 
-Wann: Sonntag 04/08/2019 von 10:00 bis 16:00.
+Zeit: Sonntag, der 4. August 2019 von 10:00 bis 17:00Uhr
 
-Wir freuen uns auf Ihren Besuch und mitmachen.
+Liebe Eltern und Freunde, ihr seid herzlich eingeladen, mit dem Team am Berliner Familiensportfest teilzunehmen.
 
-Das Program:
+Das Programm sieht wie folgt aus:
 
-10:00: aufwärmen
+10:00 Uhr : Erwärmung
 
-11:00: Probetraining für Anfänger (Grundtechnik, Befreiungstechniken, Armhebel, Kampftaktiken, Rollen und Fallen)
+11:00 Uhr: Schnupperprogramm für Anfänger (Grundtechnik, Fall/Sturz, Verteidigung, Entfesselung)
 
-12:00: Erste Demo von unserem Team
+12:00 Uhr: 1. Demonstration
 
-12:30: Mittagpause
+12:30: Mittagspause
 
-13:30: Probetraining für Anfänger (Grundtechnik, Befreiungstechniken, Armhebel, Kampftaktiken, Rollen und Fallen)
+13.30 Uhr: Schnupperprogramm für Anfänger
+(Verteidigung, Angriff, und Anwendung)
 
-15h30: Zweite Demo von unserem Team
+15.30 Uhr: 2. Demonstration
 
-16h00: Kämpfen mit Beinscherentechniken.
+16.00 Uhr: Kampf-Demonstration mit Anwendung der Beintechniken beim Angriff
 
 <!--more-->
