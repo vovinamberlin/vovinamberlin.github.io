@@ -1,15 +1,20 @@
 ---
-layout: post
-excerpt_separator: <!--more-->
-img: vovinam-berlin-logo-simple-white-background.png
-
-category: home
+layout: event
+category: event
 title: Training und Demoauftritte beim Familiensportfest Berlin im Olympiastadion Berlin.
 lang: de
 ref: berlin-familiensportfest-2019
 permalink: berlin-familiensportfest-2019-deutsche
-menu: Vovinam
 description: |
+
+excerpt_separator: <!--more-->
+img: vovinam-berlin-logo-simple-white-background.png
+
+comments: true
+image_count: 0
+event_path: 2017-10-ronneburg
+
+credits:
 ---
 
 Der Verein Vovinam Berlin wird an dem Familiensportfest Berlin 2019 (https://familiensportfest-berlin.de/), das auf dem Olympiapark stattfindet, mit vielen weiteren anderen Berliner Sportvereinen teilnehmen.

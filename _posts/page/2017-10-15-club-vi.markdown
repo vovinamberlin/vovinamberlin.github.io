@@ -7,7 +7,6 @@ title: Câu lạc bộ Vovinam Berlin SV-Tora trực thuộc liên đoàn Vovina
 lang: vi
 ref: club
 permalink: cau-lac-bo-vovinam-berlin
-menu: Về câu lạc bộ
 comments: true
 description: |
 ---

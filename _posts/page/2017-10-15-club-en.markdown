@@ -7,7 +7,6 @@ title: The Vovinam Berlin SV-Tora is a club inside the German Vovinam Federation
 lang: en
 ref: club
 permalink: club-vovinam-berlin
-menu: Club
 comments: true
 description: |
 ---

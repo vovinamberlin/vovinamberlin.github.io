@@ -2,7 +2,7 @@
 <!-- Page Content -->
 {% assign various = site.data.translations.various[page.lang] %}
 
-{% for post in site.categories[page.category] reversed %}
+{% for post in site.categories[page.category] %}
   {% if post.lang == page.lang %}
     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}

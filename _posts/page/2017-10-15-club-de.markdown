@@ -7,7 +7,6 @@ title: Der Vovinam Verein Berlin gehört zum DVVF, dem deutschen Vovinam Fachver
 lang: de
 ref: club
 permalink: klub-vovinam-berlin
-menu: Klub
 comments: true
 description: |
 ---

@@ -21,28 +21,29 @@ team:
     url: "/team-vi"
 
 hall:
-  gsl: "Mildred-Harnack-Schule. Adresse: Schulze-Boysen-Straße 20, 10365, Berlin"
-  gg: "Grundschule im Gutspark. Adresse: Josef - Orlopp - Straße 20, 10367, Berlin"
+  MvAG: "Manfred-von-Ardenne-Gymnasium, Werneuchen Straße 27-28, 13055 Berlin"
+  gg: "Grundschule im Gutspark, Josef - Orlopp - Straße 20, 10367, Berlin"
+  HuHCG: "Hans-und-Hilde-Coppi-Gymnasium, Römerweg 30-32, 10318 Berlin"
 
 training:
   de:
     title: Trainingsort und Trainingszeiten
-    wednesday: "Mittwoch (Erwachsene), 20:30 - 22:00"
+    thursday: "Donnerstag (Erwachsene), 20:00 - 22:00"
     trial: Das Training ist für jedes Alter und Geschlecht möglich. Gerne kannst du kostenlos an unserem Probetraining teilnehmen.
-    saturday: "Samstag, 12:00 - 13:30 (Erwachsene und Kinder). 13:30 - 16:00 (Erwachsene)"
-    sunday: "Sonntag, 13:30 - 15:00 (Erwachsene und Kinder). 15:00 - 16:30 (Erwachsene)"
+    saturday: "Samstag, 12:00 - 13:00 (Kinder und Jugendliche). 13:10 - 15:00 (Erwachsene)"
+    sunday: "Sonntag, 9:00 - 12:00 (Jugendliche und Erwachsene)"
   en:
     title: Timetables and training halls
-    wednesday: "Wednesday (Adults), 20:30 - 22:00"
+    thursday: "Thursday (Adults), 20:00 - 22:00"
     trial: The martial art is for everyone, you're encouraged to attend two initial free trial trainings.
-    saturday: "Saturday, 12 - 13:30 (Children and Adults). 13:30 - 16:00 (Adults)"
-    sunday: "Sunday, 13:30 - 15:00 (Children and Adults). 15:00 - 16:30 (Adults)"
+    saturday: "Saturday, 12:00 - 13:30 (Children and Adults). 13:30 - 16:00 (Adults)"
+    sunday: "Sunday, 9:00 - 12:00 (Adults)"
   vi:
     title: Thời gian biểu & Địa điểm tập luyện
-    wednesday: "Thứ tư (Người lớn), 20:30h - 22h, Grundschule auf dem Lichtenberg. Địa chỉ: Atzpodienstr. 19, Berlin."
+    thursday: "Thứ năm (Người lớn), 20:00 - 22:00"
     trial: Môn võ dành cho tất cả mọi người và lứa tuổi từ 7 trở lên, quý vị rất được hoan nghênh đến tập luyện thử hai buổi đầu miễn phí.
-    saturday: "Thứ bảy, 12h - 13:30 (lớp người lớn & trẻ em), 13:30 - 16:00 (lớp người lớn)"
-    sunday: "Chủ nhật, 13:30h - 15:00 (lớp người lớn & trẻ em), 15:00 - 16:30 (lớp người lớn)"
+    saturday: "Thứ bảy, 12:00 - 13:30 (lớp người lớn & trẻ em), 13:30 - 16:00 (lớp người lớn)"
+    sunday: "Chủ nhật, 9:00 - 12:00 (lớp người lớn)"
 
 contact:
   de:

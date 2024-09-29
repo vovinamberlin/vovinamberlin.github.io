@@ -1,0 +1,16 @@
+---
+layout: post
+excerpt_separator: <!--more-->
+img:
+
+category: home
+title: Events
+lang: de
+ref: events
+permalink: events-deutsche
+description: |
+---
+
+Nächste Termin
+
+Gürtelprüfung und Vovinamweihnachtsfeier am 14 und 15 Dezember 2024 mit Meister Tran Dai Chieu aus Frankfurt am Main.
